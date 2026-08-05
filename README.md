@@ -1,7 +1,7 @@
 # Tellme
 
 This project uses a webcam and Google's MediaPipe library to track a person's head direction in real-time.
-It is a simple, rapidly developed ("vibe-coded") project created with a clear purpose: to help individuals with communication difficulties express themselves. Users can communicate in an accessible way simply by moving their head to select custom-loaded images.
+It is a simple, rapidly developed ("vibe-coded") project created  to help individuals with communication difficulties, users can communicate in an accessible way simply by moving their head to select custom-loaded images.
 
 # Features
 
